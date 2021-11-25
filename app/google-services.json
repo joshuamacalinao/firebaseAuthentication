@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960587510848",
+    "project_id": "ucu-ikonek-database",
+    "storage_bucket": "ucu-ikonek-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960587510848:android:b49e14bab2496fc99c9ba5",
+        "android_client_info": {
+          "package_name": "com.example.ikonekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960587510848-i0165utrdfi561hfg3d0hic88ahbg9j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaHbpN3tJ4d_tvwL27kKusfA8lb5kAnG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960587510848-i0165utrdfi561hfg3d0hic88ahbg9j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
